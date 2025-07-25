@@ -4,5 +4,9 @@ This is basically twitter sentiment analyzer for brands and companies to analyze
 
 
 
-Uploading Recording 2025-07-25 181702.mp4…
+https://github.com/user-attachments/assets/78ef982d-9689-44dc-a386-75fc9edf4cf3
+
+
+
+
 
